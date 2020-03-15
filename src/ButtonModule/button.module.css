@@ -1,0 +1,15 @@
+.button {
+    background: red;
+    color: white;
+    border: none;
+    padding: 0.5rem 2rem;
+    cursor: pointer;
+}
+
+.button:hover {
+    background: lightblue;
+}
+
+.button.active {
+    background: green;
+}
