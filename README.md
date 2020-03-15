@@ -33,3 +33,4 @@ https://www.npmjs.com/package/classnames
 
 -   Encapsulated, nothing gets out
 -   Write regular CSS
+-   CSS is written in CSS file
